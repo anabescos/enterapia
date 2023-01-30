@@ -1,0 +1,10 @@
+@import '../settings/variables.scss';
+
+ul,
+li {
+  list-style-type: none;
+}
+
+body {
+    background-color: $secondaryColor;
+}
