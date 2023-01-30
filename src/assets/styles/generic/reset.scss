@@ -1,0 +1,15 @@
+@import "../settings/variables.scss";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    color: $secondaryColor;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  ul,
+  li {
+    list-style-type: none;
+  }
