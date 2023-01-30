@@ -1,0 +1,10 @@
+@import '../settings/variables.scss';
+@import '../tools/functions.scss';
+
+.c-header {
+    background-color: $secondaryColor;
+    box-shadow: 0 -6px 10px 5px #000000;
+    &__logo {
+        width: pxToRem(125px);
+    }
+}
